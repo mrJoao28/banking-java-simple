@@ -31,7 +31,7 @@ public  class main{
         }
         } while(option != 4);
         
-
+        scanner.close()
     }
 
     static void show(){
